@@ -1,0 +1,8 @@
+Required Gems:
+
+gem install json
+
+Tested on Ruby 1.9.2 on Ubuntu.
+
+rake -T should show you all of the available commands.
+
